@@ -6,7 +6,7 @@ This repository provides description and link to a synthetic image dataset for n
 The annotations consist of multiple directories for each dataset variant in the following formats:
 
 ## Licence
-The AirTrackSim'25 dataset is released to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications or personal experimentation ([LICENCE](LICENCE)).
+The AirTrackSim'25 dataset is released to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications or personal experimentation ([LICENSE](LICENSE)).
 
 ## Citing
 If you use the AirTrackSim'25 dataset for your research, please use the following BibTeX entry:
