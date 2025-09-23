@@ -6,12 +6,12 @@ The AirTrackSim'25 dataset only consists of images (and annotations), which are 
 
 ## Download
 
-TBA
+Link will be posted here before 5th of October 2025.
 
 ## Annotation Format
 The annotations consist of multiple directories for each dataset variant in the following formats:
 
-TBA
+Details coming here before 5th of October 2025.
 
 ## Licence
 The AirTrackSim'25 dataset is released to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications or personal experimentation ([LICENSE](LICENSE)).
