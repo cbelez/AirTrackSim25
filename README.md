@@ -2,8 +2,14 @@
 ![overview.jpg](./images/overview.jpg "overview.jpg")
 This repository provides description and link to a synthetic image dataset for neural learning tasks in wide-area surveillance scenarios. The dataset was generated using the AirTrackSim'25 simulation framework, which is capable of rendering photorealistic images of an airport environment from multiple perspectives.
 
+## Download
+
+TBA
+
 ## Annotation Format
 The annotations consist of multiple directories for each dataset variant in the following formats:
+
+TBA
 
 ## Licence
 The AirTrackSim'25 dataset is released to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications or personal experimentation ([LICENSE](LICENSE)).
