@@ -22,13 +22,13 @@ AirTrackSim25_dataset
 │   ├── gt
 │   │   └── gt.txt       # Ground truth data for SEQ01
 │   └── img
-│       └── frame_0001.jpg  # Images for SEQ01
+│       └── frame_*.jpg  # Images for SEQ01
 │
 ├── SEQ02
 │   ├── gt
 │   │   └── gt.txt       # Ground truth data for SEQ02
 │   └── img
-│       └── frame_0001.jpg  # Images for SEQ02
+│       └── frame_*.jpg  # Images for SEQ02
 │
 ├── SEQ03
 │   └── ...              # Same structure for other sequences
