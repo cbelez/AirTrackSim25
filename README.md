@@ -10,7 +10,7 @@ The AirTrackSim'25 dataset only consists of images (and annotations), which are 
 
 The dataset is designed to help advance the development of tracking algorithms by providing a diverse set of training and testing sequences with a focus on small object detection, especially for aircraft in a busy airport environment.
 
-The dataset is publicly available at [AirTrackSim25 GitHub Repository](https://github.com/cbelez/AirTrackSim25).
+The dataset is publicly available at [AirTrackSim25 Zenodo Repository](https://zenodo.org/records/17287924).
 
 ## Dataset Structure
 
