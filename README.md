@@ -68,7 +68,8 @@ AirTrackSim25_dataset
     ```
   
 
-Each folder also contains a rendered video with annotation overlays to visualize the folder's content.
+Each folder also contains a rendered video (*visualization.mp4*) with annotation overlays to visualize the folder's content.
+The dataset also includes vis_annotations.py, a python script to visualize the annotations in the images.
 
 
 ## Licence
