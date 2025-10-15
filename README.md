@@ -1,4 +1,8 @@
-# The AirTrackSim'25 Dataset
+<p style="text-align: center; margin-bottom: 0px;">
+  <img src="./images/airtracksim_logo.png" alt="AirTrackSim Logo" style="height:140px; vertical-align:bottom">
+</p>
+<h2 style="text-align:center;">The AirTrackSim'25 Dataset</h2>
+
 ![overview.jpg](./images/overview.jpg "overview.jpg")
 This repository provides description and link to a synthetic image dataset 
 for neural learning tasks in wide-area surveillance scenarios. 
