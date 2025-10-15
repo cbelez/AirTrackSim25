@@ -1,6 +1,4 @@
-<p style="text-align: center; margin-bottom: 0px;">
-  <img src="./images/airtracksim_logo.png" alt="AirTrackSim Logo" style="height:140px; vertical-align:bottom">
-</p>
+<img src="./images/airtracksim_logo.png" alt="AirTrackSim Logo" style="height:110px; vertical-align:bottom">
 <h2 style="text-align:center;">The AirTrackSim'25 Dataset</h2>
 
 ![overview.jpg](./images/overview.jpg "overview.jpg")
