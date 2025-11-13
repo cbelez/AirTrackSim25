@@ -82,6 +82,8 @@ The AirTrackSim'25 dataset is released to academic and non-academic entities for
 - Not for use as *stock media*, *templates*, or *clip-art*. 
 - No endorsement by any brand or rights holder is implied.
 
+## Acknowledgments
+This work was supported by the SAFER project, funded by the Austrian Research Promotion Agency (FFG) under project number 4452868.
 
 ## Citing
 If you use the AirTrackSim'25 dataset for your research, please use the following BibTeX entry:
